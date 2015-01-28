@@ -1,4 +1,4 @@
-<?php
+<?php //123
 ob_start();
 session_start();
 $err_msg=0;
